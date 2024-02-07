@@ -1,0 +1,21 @@
+{
+  "name": "codeclear",
+  "version": "0.1.0",
+  "description": "CodeClear is a Q &amp; A about the best Programing Languages",
+  "main": "app/__init__.py",
+  "scripts": {
+    "start": "python3 app/__init__.py",
+    "setup": "pip install requirements.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osias-dev/CodeClear.git"
+  },
+  "keywords": [],
+  "author": "Osias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osias-dev/CodeClear/issues"
+  },
+  "homepage": "https://github.com/osias-dev/CodeClear#readme"
+}
